@@ -13,7 +13,7 @@
 
 - 수입/지출 내역을 기록하고 분석하는 Python 기반 CLI 가계부 프로그램  
 - 사용자의 소비 패턴을 파악하고, 경고 기능과 시각화를 통해 재무 의사결정을 지원합니다.  
-- [프로젝트 설명서 (PDF)](./household-budget/household-budget-report.pdf)
+- [프로젝트 설명서 (PDF)](./household-budget/household_budget_report.pdf)
 
 ---
 
