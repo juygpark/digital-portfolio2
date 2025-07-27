@@ -17,7 +17,7 @@
 
 ---
 
-### 2. [Financial Derivatives Pricing](./finanal-pricing)
+### 2. [Financial Derivatives Pricing](./financial-pricing)
 
 - 금융공학 수업 중 금융상품의 pricing model을 Python으로 구현한 프로젝트  
 - Black-Scholes, 이자율모형 등 이론을 실제 코드로 구현하며 금융상품에 대한 이해를 바탕으로 기술을 적용한 사례입니다.  
