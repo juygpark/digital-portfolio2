@@ -31,3 +31,5 @@ Python을 활용한 커맨드라인 기반 가계부 프로그램입니다.
 
 ```bash
 python account_book.py
+
+## 상세보고서 보기: [프로젝트 보고서 PDF](./household_budget_project_report.pdf)
