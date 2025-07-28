@@ -28,7 +28,7 @@ Python을 활용한 커맨드라인 기반 가계부 프로그램입니다.
 ---
 ## 상세보고서 보기
 
-[가계부 프로젝트 보고서 보기] (./household-budget/household_budget_project_report.pdf)
+[가계부 프로젝트 보고서 보기](./household-budget/household_budget_project_report.pdf)
 
 ---
 ## 실행 방법
